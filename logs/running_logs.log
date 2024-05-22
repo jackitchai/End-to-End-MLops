@@ -169,3 +169,141 @@ x==========x]
 [2024-05-22 17:16:46,374: INFO: common: yaml file: schema.yaml loaded successfully]
 [2024-05-22 17:16:46,375: INFO: common: created directory at: artifacts]
 [2024-05-22 17:16:46,376: INFO: common: created directory at: artifacts/data_validation]
+[2024-05-22 19:43:00,559: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-22 19:43:00,560: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-05-22 19:43:00,561: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-05-22 19:43:00,561: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-05-22 19:43:00,561: INFO: common: created directory at: artifacts]
+[2024-05-22 19:43:00,561: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-05-22 19:43:00,562: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-05-22 19:43:00,563: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-22 19:43:00,563: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-05-22 19:43:00,563: ERROR: main: name 'DataValidationTrainingPipeline' is not defined]
+Traceback (most recent call last):
+  File "/Users/kitchaichawmengchai/Downloads/End to End MLops/End-to-End-MLops/main.py", line 18, in <module>
+    data_ingestion = DataValidationTrainingPipeline()
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'DataValidationTrainingPipeline' is not defined. Did you mean: 'DataIngestionTrainingPipeline'?
+[2024-05-22 19:43:39,753: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-22 19:43:39,754: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-05-22 19:43:39,754: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-05-22 19:43:39,755: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-05-22 19:43:39,755: INFO: common: created directory at: artifacts]
+[2024-05-22 19:43:39,755: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-05-22 19:43:39,755: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-05-22 19:43:39,756: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-22 19:43:39,756: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-05-22 19:43:39,756: ERROR: main: name 'DataValidationTrainingPipeline' is not defined]
+Traceback (most recent call last):
+  File "/Users/kitchaichawmengchai/Downloads/End to End MLops/End-to-End-MLops/main.py", line 18, in <module>
+    data_ingestion = DataValidationTrainingPipeline()
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'DataValidationTrainingPipeline' is not defined. Did you mean: 'DataIngestionTrainingPipeline'?
+[2024-05-22 19:43:50,305: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-22 19:43:50,306: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-05-22 19:43:50,306: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-05-22 19:43:50,306: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-05-22 19:43:50,307: INFO: common: created directory at: artifacts]
+[2024-05-22 19:43:50,307: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-05-22 19:43:50,307: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-05-22 19:43:50,307: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-22 19:43:50,307: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-05-22 19:43:50,307: ERROR: main: name 'DataValidationTrainingPipeline' is not defined]
+Traceback (most recent call last):
+  File "/Users/kitchaichawmengchai/Downloads/End to End MLops/End-to-End-MLops/main.py", line 18, in <module>
+    data_ingestion = DataValidationTrainingPipeline()
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'DataValidationTrainingPipeline' is not defined. Did you mean: 'DataIngestionTrainingPipeline'?
+[2024-05-22 19:43:58,784: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-22 19:43:58,785: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-05-22 19:43:58,785: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-05-22 19:43:58,785: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-05-22 19:43:58,785: INFO: common: created directory at: artifacts]
+[2024-05-22 19:43:58,786: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-05-22 19:43:58,786: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-05-22 19:43:58,786: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-22 19:43:58,786: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-05-22 19:43:58,786: ERROR: main: name 'DataValidationTrainingPipeline' is not defined]
+Traceback (most recent call last):
+  File "/Users/kitchaichawmengchai/Downloads/End to End MLops/End-to-End-MLops/main.py", line 18, in <module>
+    data_ingestion = DataValidationTrainingPipeline()
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'DataValidationTrainingPipeline' is not defined. Did you mean: 'DataIngestionTrainingPipeline'?
+[2024-05-22 19:45:42,244: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-22 19:45:42,245: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-05-22 19:45:42,246: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-05-22 19:45:42,246: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-05-22 19:45:42,246: INFO: common: created directory at: artifacts]
+[2024-05-22 19:45:42,246: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-05-22 19:45:42,246: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-05-22 19:45:42,247: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-22 19:45:42,247: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-05-22 19:45:42,247: ERROR: main: name 'DataValidationTrainingPipeline' is not defined]
+Traceback (most recent call last):
+  File "/Users/kitchaichawmengchai/Downloads/End to End MLops/End-to-End-MLops/main.py", line 18, in <module>
+    data_ingestion = DataValidationTrainingPipeline()
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'DataValidationTrainingPipeline' is not defined. Did you mean: 'DataIngestionTrainingPipeline'?
+[2024-05-22 19:47:48,894: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-22 19:47:48,895: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-05-22 19:47:48,895: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-05-22 19:47:48,896: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-05-22 19:47:48,896: INFO: common: created directory at: artifacts]
+[2024-05-22 19:47:48,896: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-05-22 19:47:48,896: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-05-22 19:47:48,897: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-22 19:47:48,897: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-05-22 19:47:48,897: ERROR: main: name 'DataValidationTrainingPipeline' is not defined]
+Traceback (most recent call last):
+  File "/Users/kitchaichawmengchai/Downloads/End to End MLops/End-to-End-MLops/main.py", line 18, in <module>
+    data_ingestion = DataValidationTrainingPipeline()
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'DataValidationTrainingPipeline' is not defined. Did you mean: 'DataIngestionTrainingPipeline'?
+[2024-05-22 19:48:31,642: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-22 19:48:31,643: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-05-22 19:48:31,643: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-05-22 19:48:31,644: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-05-22 19:48:31,644: INFO: common: created directory at: artifacts]
+[2024-05-22 19:48:31,644: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-05-22 19:48:31,644: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-05-22 19:48:31,645: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-22 19:48:31,645: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-05-22 19:48:31,645: ERROR: main: name 'DataValidationTrainingPipeline' is not defined]
+Traceback (most recent call last):
+  File "/Users/kitchaichawmengchai/Downloads/End to End MLops/End-to-End-MLops/main.py", line 18, in <module>
+    data_ingestion = DataValidationTrainingPipeline()
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'DataValidationTrainingPipeline' is not defined. Did you mean: 'DataIngestionTrainingPipeline'?
+[2024-05-22 19:49:14,728: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-22 19:49:14,728: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-05-22 19:49:14,729: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-05-22 19:49:14,730: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-05-22 19:49:14,730: INFO: common: created directory at: artifacts]
+[2024-05-22 19:49:14,730: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-05-22 19:49:14,730: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-05-22 19:49:14,731: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-22 19:49:14,731: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-05-22 19:49:14,731: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-05-22 19:49:14,731: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-05-22 19:49:14,732: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-05-22 19:49:14,732: INFO: common: created directory at: artifacts]
+[2024-05-22 19:49:14,732: INFO: common: created directory at: artifacts/data_validation]
+[2024-05-22 19:49:14,734: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
