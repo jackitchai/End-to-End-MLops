@@ -160,3 +160,12 @@ Source-Age: 265
 [2024-05-22 16:23:32,064: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
 
 x==========x]
+[2024-05-22 17:15:53,678: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-05-22 17:15:53,680: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-05-22 17:15:53,682: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-05-22 17:15:53,683: INFO: common: created directory at: artifacts]
+[2024-05-22 17:16:46,371: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-05-22 17:16:46,373: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-05-22 17:16:46,374: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-05-22 17:16:46,375: INFO: common: created directory at: artifacts]
+[2024-05-22 17:16:46,376: INFO: common: created directory at: artifacts/data_validation]
