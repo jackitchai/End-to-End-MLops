@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kitchaichawmengchai/Downloads/End%20to%20End%20MLops/End-to-End-MLops/mlruns/0/fe80a40d0fe74a2a89d94812d7f1ae7e/artifacts
+end_time: 1716466811051
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe80a40d0fe74a2a89d94812d7f1ae7e
+run_name: nervous-koi-476
+run_uuid: fe80a40d0fe74a2a89d94812d7f1ae7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716466809673
+status: 3
+tags: []
+user_id: kitchaichawmengchai

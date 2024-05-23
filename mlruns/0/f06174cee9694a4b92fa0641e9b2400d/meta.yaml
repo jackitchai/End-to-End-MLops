@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kitchaichawmengchai/Downloads/End%20to%20End%20MLops/End-to-End-MLops/mlruns/0/f06174cee9694a4b92fa0641e9b2400d/artifacts
+end_time: 1716466647100
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f06174cee9694a4b92fa0641e9b2400d
+run_name: unequaled-dog-254
+run_uuid: f06174cee9694a4b92fa0641e9b2400d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716466645668
+status: 3
+tags: []
+user_id: kitchaichawmengchai

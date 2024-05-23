@@ -4,6 +4,8 @@ from src.mlProject import logger
 from src.mlProject.entity.config_entity import DataTransformationConfig
 from sklearn.model_selection import train_test_split
 import pandas as pd
+from pathlib import Path
+
 
 class DataTransformation:
     def __init__(self, config: DataTransformationConfig):

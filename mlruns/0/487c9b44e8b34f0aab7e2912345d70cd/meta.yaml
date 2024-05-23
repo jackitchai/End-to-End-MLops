@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kitchaichawmengchai/Downloads/End%20to%20End%20MLops/End-to-End-MLops/mlruns/0/487c9b44e8b34f0aab7e2912345d70cd/artifacts
+end_time: 1716464407516
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 487c9b44e8b34f0aab7e2912345d70cd
+run_name: secretive-auk-318
+run_uuid: 487c9b44e8b34f0aab7e2912345d70cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716464406100
+status: 3
+tags: []
+user_id: kitchaichawmengchai

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kitchaichawmengchai/Downloads/End%20to%20End%20MLops/End-to-End-MLops/mlruns/0/288ddcbc39934520836f76bd4fbe5e7a/artifacts
+end_time: 1716466699999
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 288ddcbc39934520836f76bd4fbe5e7a
+run_name: gentle-pig-94
+run_uuid: 288ddcbc39934520836f76bd4fbe5e7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716466698601
+status: 3
+tags: []
+user_id: kitchaichawmengchai

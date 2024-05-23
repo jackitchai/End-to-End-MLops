@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kitchaichawmengchai/Downloads/End%20to%20End%20MLops/End-to-End-MLops/mlruns/0/a713e0b4c8494c2980a03caf73cc23f7/artifacts
+end_time: 1716466845184
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a713e0b4c8494c2980a03caf73cc23f7
+run_name: rumbling-doe-556
+run_uuid: a713e0b4c8494c2980a03caf73cc23f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716466844254
+status: 3
+tags: []
+user_id: kitchaichawmengchai
