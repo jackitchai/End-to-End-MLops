@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kitchaichawmengchai/Downloads/End%20to%20End%20MLops/End-to-End-MLops/mlruns/0/6e47b7c25d5340ab9a58db5382f4be7b/artifacts
+end_time: 1716462594986
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e47b7c25d5340ab9a58db5382f4be7b
+run_name: delightful-elk-750
+run_uuid: 6e47b7c25d5340ab9a58db5382f4be7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716462594020
+status: 3
+tags: []
+user_id: kitchaichawmengchai

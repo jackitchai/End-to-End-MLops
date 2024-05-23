@@ -10,3 +10,15 @@ Workflows
 7. Update src/pipeline/
 8. Update the main.py
 9. Update the app.py
+
+
+import dagshub
+dagshub.init(repo_owner='jackitchai', repo_name='End-to-End-MLops', mlflow=True)
+
+import mlflow
+with mlflow.start_run():
+  mlflow.log_param('parameter name', 'value')
+  mlflow.log_metric('metric name', 1)
+
+https://dagshub.com/jackitchai/End-to-End-MLops.mlflow
+

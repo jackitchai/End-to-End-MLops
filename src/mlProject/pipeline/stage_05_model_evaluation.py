@@ -5,7 +5,7 @@ from pathlib import Path
 
 STAGE_NAME = "Model Evaluation stage"
 
-class ModelTrainerpipeline:
+class ModelEvaluationpipeline:
     def __init__(self):
         pass
 

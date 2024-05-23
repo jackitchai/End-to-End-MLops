@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kitchaichawmengchai/Downloads/End%20to%20End%20MLops/End-to-End-MLops/mlruns/0/a4188469edbc4f0890fcf9ebeb4d8b6f/artifacts
+end_time: 1716462594015
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a4188469edbc4f0890fcf9ebeb4d8b6f
+run_name: vaunted-croc-357
+run_uuid: a4188469edbc4f0890fcf9ebeb4d8b6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716462592658
+status: 3
+tags: []
+user_id: kitchaichawmengchai
