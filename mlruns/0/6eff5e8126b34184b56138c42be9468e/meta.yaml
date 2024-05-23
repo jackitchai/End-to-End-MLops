@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kitchaichawmengchai/Downloads/End%20to%20End%20MLops/End-to-End-MLops/mlruns/0/6eff5e8126b34184b56138c42be9468e/artifacts
+end_time: 1716467422820
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6eff5e8126b34184b56138c42be9468e
+run_name: judicious-skink-418
+run_uuid: 6eff5e8126b34184b56138c42be9468e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716467421827
+status: 3
+tags: []
+user_id: kitchaichawmengchai
