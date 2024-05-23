@@ -5,6 +5,15 @@ from src.mlProject.pipeline.stage_03_data_transformation import DataTransformati
 from src.mlProject.pipeline.stage_04_model_trainer import ModelTrainerpipeline
 from src.mlProject.pipeline.stage_05_model_evaluation import ModelEvaluationpipeline
 
+import mlflow
+import dagshub
+
+dagshub.init(repo_owner='jackitchai', repo_name='End-to-End-MLops', mlflow=True)
+with mlflow.start_run():
+  mlflow.log_param('parameter name', 'value')
+  mlflow.log_metric('metric name', 1)
+
+
 STAGE_NAME = "Data Ingestion stage"
 try:
    logger.info(f">>>>>> stage {STAGE_NAME} started <<<<<<") 

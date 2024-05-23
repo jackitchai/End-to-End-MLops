@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kitchaichawmengchai/Downloads/End%20to%20End%20MLops/End-to-End-MLops/mlruns/0/ee8a5eb09b114830911607828a9ad984/artifacts
+end_time: 1716463049405
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee8a5eb09b114830911607828a9ad984
+run_name: kindly-fox-503
+run_uuid: ee8a5eb09b114830911607828a9ad984
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716463048344
+status: 3
+tags: []
+user_id: kitchaichawmengchai
