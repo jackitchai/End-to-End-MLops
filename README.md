@@ -1,9 +1,16 @@
 # End-to-End-MLops
-
-Workflows
-1. Update config/config.yaml
-2. Update schema.yaml
-3. Update params.yaml
+### Main idea on this project
+- *setup package*, *logging*, Object Oriented Programming, 
+## 1.Setting up environment
+- Run `template.py` to create folder and file template
+- Install packages on your terminal (Or you can just run only `setup.py` file)
+```text
+pip3 install -r requirements.txt
+```
+## 2. Update workflow
+1. Update config/ `config.yaml` -> define the directory and path for each stages
+2. Update `schema.yaml` -> specify the data types for each column
+3. Update `params.yaml` -> specify the hyperparameter
 4. Update src/entity/config_entity.py
 5. Update src/config/configuration.py
 6. Update src/components
