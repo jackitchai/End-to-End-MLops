@@ -3,7 +3,7 @@
 - *setup package*, *logging*, Object Oriented Programming, 
 ## 1.Setting up environment
 - Run `template.py` to create folder and file template
-- Install packages on your terminal (Or you can just run with this command `pip3 install .`)
+- Install packages on your terminal (Or you can just run only `setup.py` file)
 ```text
 pip3 install -r requirements.txt
 ```
@@ -11,8 +11,8 @@ pip3 install -r requirements.txt
 1. Update config/ `config.yaml` -> define the directory and path for each stages
 2. Update `schema.yaml` -> specify the data types for each column
 3. Update `params.yaml` -> specify the hyperparameter
-4. Update src/entity/config_entity.py
-5. Update src/config/configuration.py
+4. Update src/entity/`config_entity.py` -> define configuration classe for different stages
+5. Update src/config/`configuration.py` -> read config and parameter
 6. Update src/components
 7. Update src/pipeline/
 8. Update the main.py
