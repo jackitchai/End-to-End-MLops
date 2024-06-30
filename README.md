@@ -11,8 +11,8 @@ python3 -m venv myenv
 ```text
 pip3 install -r requirements.txt
 ```
-- create log file at `src/mlProject/__init__.py`
-- create `utils/common.py`
+- write code for log file at `src/mlProject/__init__.py`
+- create `utils/common.py` for read_yaml, read_json etc. 
 
 ## 2. Update workflow
 1. Update config/ `config.yaml` -> define the directory and path for each stages
