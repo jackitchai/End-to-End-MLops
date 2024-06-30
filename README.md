@@ -3,7 +3,7 @@
 - *setup package*, *logging*, Object Oriented Programming, 
 ## 1.Setting up environment
 - Run `template.py` to create folder and file template
-- Install packages on your terminal (Or you can just run only `setup.py` file)
+- Install packages on your terminal (Or you can just run with this command `pip3 install .`)
 ```text
 pip3 install -r requirements.txt
 ```
