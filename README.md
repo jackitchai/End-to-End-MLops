@@ -24,14 +24,12 @@ pip3 install -r requirements.txt
 7. Update src/pipeline/ -> connect from every workflow
 8. Update the main.py -> run pipeline 
 
+## 3. Data stage
+1. Data ingestion stage -> 
+2. Data validation stage -> 
+3. Data transformation stage -> 
+4. Model training stage -> 
+5. Model evaluation stage -> 
 
-import dagshub
-dagshub.init(repo_owner='jackitchai', repo_name='End-to-End-MLops', mlflow=True)
-
-import mlflow
-with mlflow.start_run():
-  mlflow.log_param('parameter name', 'value')
-  mlflow.log_metric('metric name', 1)
-
-https://dagshub.com/jackitchai/End-to-End-MLops.mlflow
+## 4. Deploy stage
 
