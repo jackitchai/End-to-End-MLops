@@ -29,8 +29,8 @@ pip3 install -r requirements.txt
 3.2 Data validation stage -> Check columns data type from `schema.yaml`\
 3.3 Data transformation stage -> Clean data and split data into `train.csv` and `test.csv`\
 3.4 Model training stage -> Train data with ElasticNet model using parameter `from parameter.yaml`\
-3.5 Model evaluation stage -> 
-3.6 Prediction stage ->\
+3.5 Model evaluation stage -> RMSE, R2, MAE metrics for evaluation and connect with MLflow for model experimentation\
+3.6 Prediction stage ->
 
 ## 4. Deploy stage
 1. 
