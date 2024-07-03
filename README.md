@@ -15,15 +15,26 @@ pip3 install -r requirements.txt
 - at `utils/common.py` write code for read_yaml, read_json etc. 
 
 ## 2. Update workflow
-2.1 Update config/ `config.yaml` -> define the directory and path for each stages\
+2.1 Update `config/ config.yaml` -> define the directory and path for each stages\
 2.2 Update `schema.yaml` -> specify the data types for each column\
 2.3 Update `params.yaml` -> specify the hyperparameter\
-2.4 Update src/entity/`config_entity.py` -> define configuration type for different stages\
-2.5 Update src/config/`configuration.py` -> read config.yaml and config.entity\
-2.6 Update src/components -> create component for each stage\
-2.7 Update src/pipeline/ -> connect from every workflow\
-2.8 Update the main.py -> run pipeline 
-
+2.4 Update `src/entity/config_entity.py` -> define configuration type for different stages\
+2.5 Update `src/config/configuration.py` -> read config.yaml and config.entity\
+2.6 Update `src/components` -> create component for each stage\
+2.7 Update `src/pipeline/` -> connect from every workflow\
+2.8 Update the `main.py` -> run pipeline 
+# Example of directory structure
+```
+.
+├── setup.py
+└── src
+    └── mlproject
+        ├── components
+        │   ├── __init__.py
+        │   └── data_ingestion.py
+        ├── entity
+        └── __init__.py
+```
 ## 3. Data stage
 3.1 Data ingestion stage -> Load data from github or kaggle to artifacts folder\
 3.2 Data validation stage -> Check columns data type from `schema.yaml`\
