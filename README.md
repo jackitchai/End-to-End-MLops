@@ -23,7 +23,7 @@ pip3 install -r requirements.txt
 2.6 Update `src/components` -> create component for each stage\
 2.7 Update `src/pipeline/` -> connect from every workflow\
 2.8 Update the `main.py` -> run pipeline 
-# Example of directory structure
+### Example of directory structure
 ```
 .
 ├── setup.py
