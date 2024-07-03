@@ -39,12 +39,11 @@ pip3 install -r requirements.txt
         └── __init__.py
 ```
 ## 3. Data stage
-**3.1** Data ingestion stage -> Load data from GitHub or Kaggle to artifacts folder
-**3.2** Data validation stage -> Check column data types from `schema.yaml`
-**3.3** Data transformation stage -> Clean data and split data into `train.csv` and `test.csv`
-**3.4** Model training stage -> Train data with ElasticNet model using parameters from `parameter.yaml`
+**3.1** Data ingestion stage -> Load data from GitHub or Kaggle to artifacts folder\
+**3.2** Data validation stage -> Check column data types from `schema.yaml`\
+**3.3** Data transformation stage -> Clean data and split data into `train.csv` and `test.csv`\
+**3.4** Model training stage -> Train data with ElasticNet model using parameters from `parameter.yaml`\
 **3.5** Model evaluation stage -> Use RMSE, R2, and MAE metrics for evaluation and connect with MLflow for model experimentation
-
 
 ## 4. Deployment stage
 AWS and CI/CD deployment with Github Actions
