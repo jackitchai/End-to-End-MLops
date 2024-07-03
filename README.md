@@ -1,6 +1,7 @@
 # End-to-End-MLops
 ### Main idea on this project
 - *Setup package*, *Logging*, *Object oriented programming*, *Data pipeline*, *CI/CD*,*AWS EC2*, *MLops*, *MLflow*
+<img src="End_to_End_MLops.png">
 ## 1.Setting up environment
 - create virtual environment with 
 ```
